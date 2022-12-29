@@ -1,4 +1,4 @@
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+<img align="right" alt="Nico-yoda" height="120" width="150" src="https://1.bp.blogspot.com/-2s7KEKQXE5Y/XgBnpZVYByI/AAAAAAAAMDE/ZDu7dDxbWxs-ZZIm_BoOX8HtoYDcuqMxgCLcBGAsYHQ/s1600/10%2BStatic%2BShock%2B%2528Super%2BChoque%2529%2Bhttpsnegro-geek-nerd.blogspot.com.gif">
   
 - 🔭 Hoje trabalho com front-end
 - 🌱 Estudando React Native
@@ -15,7 +15,6 @@
   <img align="center" alt="Nico-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nico-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nico-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Nico-yoda" height="120" width="150" src="https://1.bp.blogspot.com/-2s7KEKQXE5Y/XgBnpZVYByI/AAAAAAAAMDE/ZDu7dDxbWxs-ZZIm_BoOX8HtoYDcuqMxgCLcBGAsYHQ/s1600/10%2BStatic%2BShock%2B%2528Super%2BChoque%2529%2Bhttpsnegro-geek-nerd.blogspot.com.gif">
 </div>
 
   ##
