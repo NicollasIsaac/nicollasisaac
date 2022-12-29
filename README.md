@@ -1,10 +1,10 @@
-<img align="right" alt="Nico-yoda" height="480" width="600" src="https://1.bp.blogspot.com/-2s7KEKQXE5Y/XgBnpZVYByI/AAAAAAAAMDE/ZDu7dDxbWxs-ZZIm_BoOX8HtoYDcuqMxgCLcBGAsYHQ/s1600/10%2BStatic%2BShock%2B%2528Super%2BChoque%2529%2Bhttpsnegro-geek-nerd.blogspot.com.gif">
+
   
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React Native
+- 🌱 Cursando engenharia de software
 - 😄 Pronouns: ele/dele
 - ⚡ Finalista da Olimpíada Nacional de Aplicativos
 <div>
+<img align="certer" alt="Nico-yoda" height="480" width="600" src="https://1.bp.blogspot.com/-2s7KEKQXE5Y/XgBnpZVYByI/AAAAAAAAMDE/ZDu7dDxbWxs-ZZIm_BoOX8HtoYDcuqMxgCLcBGAsYHQ/s1600/10%2BStatic%2BShock%2B%2528Super%2BChoque%2529%2Bhttpsnegro-geek-nerd.blogspot.com.gif">
   <a href="https://github.com/NicollasIsaac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicollasisaac&show_iconstrue&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasisaac&layout=compact&langs_count=16&show_iconstrue&theme=dracula&include_all_commits=true&count_private=true"/>
