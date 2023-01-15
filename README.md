@@ -7,6 +7,14 @@
 <img align="certer" alt="Nico-yoda" height="480" width="600" src="https://1.bp.blogspot.com/-2s7KEKQXE5Y/XgBnpZVYByI/AAAAAAAAMDE/ZDu7dDxbWxs-ZZIm_BoOX8HtoYDcuqMxgCLcBGAsYHQ/s1600/10%2BStatic%2BShock%2B%2528Super%2BChoque%2529%2Bhttpsnegro-geek-nerd.blogspot.com.gif">
   <a href="https://github.com/NicollasIsaac">
 </div>
+  
+ <div>
+  <a href="https://github.com/nicollasisaac">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=nicollasisaac&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicollasisaac&layout=compact&langs_count=7&theme=radical"/>
+</div>
+  
+  
  <div style="display: inline_block"><br>
   <img align="center" alt="Nico-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Nico-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
