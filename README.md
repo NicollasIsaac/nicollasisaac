@@ -1,6 +1,8 @@
 - 🌱 Cursando engenharia de software
 - 😄 Pronouns: ele/dele
-- ⚡ Finalista da Olimpíada Nacional de Aplicativos
+- ⚡ 4 Lugar Olimpíada Nacional de Aplicativos
+- 🌱 Vencedor de 3 categorias do Hackaton ETH SAMBA, sendo o time mais ganhador da competição.
+
 <div>
 <img align="certer" alt="Nico-yoda" height="180" width="300" src="https://1.bp.blogspot.com/-2s7KEKQXE5Y/XgBnpZVYByI/AAAAAAAAMDE/ZDu7dDxbWxs-ZZIm_BoOX8HtoYDcuqMxgCLcBGAsYHQ/s1600/10%2BStatic%2BShock%2B%2528Super%2BChoque%2529%2Bhttpsnegro-geek-nerd.blogspot.com.gif">
   <a href="https://github.com/NicollasIsaac">
